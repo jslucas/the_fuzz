@@ -20,5 +20,7 @@ The following algorithms are currently implemented.
 1. TverskyIndexMetric
 1. WeightedLevenshteinDistance
 1. MetaphoneAlgorithm
+1. SoundexAlgorithm
+1. SoundexMetric
 
 I implemented these ones first because I needed them for another project.  I will be adding more as time progresses.  If you need one of them for a project, and I haven't implemented it yet, please let me know so that I can give it a higher priority.
